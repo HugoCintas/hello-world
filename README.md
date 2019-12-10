@@ -1,2 +1,10 @@
 # hello-world
-This is my first repository. I don't know at the moment how it will develop. 
+
+Hello there !
+
+I am a space engineering student, and a radioham.
+
+I did mostly python and c programming.
+I have the basis in html and in Django.
+
+Over,
